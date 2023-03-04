@@ -1,0 +1,1 @@
+select id, col1, col2 from example_table where col1 = $1;
